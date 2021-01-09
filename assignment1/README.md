@@ -6,3 +6,4 @@ These actions will be methods included in the marble class.
 
 To test the program, I will add five marbles and pull them out at random and see if they still hold their values. 
 
+![alt text](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
