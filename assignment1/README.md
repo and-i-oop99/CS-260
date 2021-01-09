@@ -6,4 +6,4 @@ These actions will be methods included in the marble class.
 
 To test the program, I will add five marbles and pull them out at random and see if they still hold their values. 
 
-https://docs.google.com/viewer?url=${file:///C:/Users/fofo1/OneDrive%20-%20Linn%20Benton%20CC/LBCC/Winter%202021/CS%20260/week1/Assignment%201%20Design%20Drawings%20.pdf}
+https://docs.google.com/viewer?url=${https://drive.google.com/drive/u/1/folders/1RN6KM_7I86oZii9FKyV_eCbdE-6s8XJc}
