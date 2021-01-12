@@ -1,9 +1,9 @@
 In my marble program, I am representing the marbles as objects of the marble class I am creating. 
 
-I will add marbles into the bag by appending the marble objects into the bag list. 
-I will remove marbles by removing a marble from the bag list.
-These actions will be methods included in the marble class. 
+I will add marbles into the bag by adding them to the array that represents the bag
+I will remove marbles by removing the user's desired marbles from the bag
 
-To test the program, I will add five marbles and pull them out at random and see if they still hold their values. 
+
+To test the program, I will add marbles and take away marbles and print the marbles in the bag to make sure it is working correctly. 
 
 https://drive.google.com/file/d/1kLmY9Cx6082jy2ptunIixDf3rc5ZTCw-/view?usp=sharing
